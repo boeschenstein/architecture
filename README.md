@@ -23,6 +23,7 @@ Training from ardalis: "Getting Started: Modular Monoliths in .NET"
 ### Microservice cons's
 
 - complex
+- expensive
 
 ## Modular Monolith
 
