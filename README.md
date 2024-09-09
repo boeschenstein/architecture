@@ -36,3 +36,8 @@ Training from ardalis: "Getting Started: Modular Monoliths in .NET"
 ### Modular Monolith cons's
 
 - easier to keep the code clean
+
+## Event Streaming is not Event Sourcing
+
+Event Streaming is not Event Sourcing!
+<https://event-driven.io/en/event_streaming_is_not_event_sourcing/>
