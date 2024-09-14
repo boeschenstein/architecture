@@ -41,3 +41,15 @@ Training from ardalis: "Getting Started: Modular Monoliths in .NET"
 
 Event Streaming is not Event Sourcing!
 <https://event-driven.io/en/event_streaming_is_not_event_sourcing/>
+
+## CQS, CQRS
+
+> CQRS takes the defining principle of CQS and extends it to specific objects within a system, one retrieving data and one modifying data. CQRS is the broader architectural pattern, and CQS is the general principle of behaviour.
+
+CQRS Levels: <https://enterprisecraftsmanship.com/posts/types-of-cqrs/>
+- Type 0: no CQRS
+- Type 1: separated class structure
+- Type 2: separated model
+- Type 3: separated storage
+
+
