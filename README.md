@@ -42,6 +42,10 @@ Training from ardalis: "Getting Started: Modular Monoliths in .NET"
 Event Streaming is not Event Sourcing!
 <https://event-driven.io/en/event_streaming_is_not_event_sourcing/>
 
+## Vertical Slices
+
+<https://github.com/boeschenstein/VerticalSlices>
+
 ## CQS, CQRS
 
 > CQRS takes the defining principle of CQS and extends it to specific objects within a system, one retrieving data and one modifying data. CQRS is the broader architectural pattern, and CQS is the general principle of behaviour.
