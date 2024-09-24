@@ -56,4 +56,13 @@ CQRS Levels: <https://enterprisecraftsmanship.com/posts/types-of-cqrs/>
 - Type 2: separated model
 - Type 3: separated storage
 
+# Draw, Charts
 
+- UML <https://holub.com/uml/>
+- 4+1 architectural view model <https://en.wikipedia.org/wiki/4%2B1_architectural_view_model>
+  - Logical view
+  - Process view
+  - Development view
+  - Physical view
+  - Scenarios
+ 
