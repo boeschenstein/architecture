@@ -66,3 +66,11 @@ CQRS Levels: <https://enterprisecraftsmanship.com/posts/types-of-cqrs/>
   - Physical view
   - Scenarios
  
+# Verify architecture
+
+- <https://www.plainionist.net/Dependency-Governance-DotNet/>
+- <https://stackoverflow.com/questions/17226311/is-there-a-way-to-prevent-certain-references-from-being-included-on-a-project>
+- <https://www.ben-morris.com/writing-archunit-style-tests-for-net-and-c-for-self-testing-architectures/>
+- ArchUnit <https://archunitnet.readthedocs.io/en/stable/>
+- NsDepCop <https://github.com/realvizu/NsDepCop/>
+- NetArchTest <https://github.com/BenMorris/NetArchTest>
