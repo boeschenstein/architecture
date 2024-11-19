@@ -58,13 +58,18 @@ CQRS Levels: <https://enterprisecraftsmanship.com/posts/types-of-cqrs/>
 
 # Draw, Charts
 
+- Editor <https://draw.io/>
 - UML <https://holub.com/uml/>
-- 4+1 architectural view model <https://en.wikipedia.org/wiki/4%2B1_architectural_view_model>
-  - Logical view
-  - Process view
-  - Development view
-  - Physical view
-  - Scenarios
+- 4+1 architectural view model
+  - Wiki <https://en.wikipedia.org/wiki/4%2B1_architectural_view_model>
+  - Good introduction <https://www.youtube.com/watch?v=S9YbFdLdKxE>
+  - Paper <https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf>
+  - Views:
+    - Logical view
+    - Process view
+    - Development view
+    - Physical view
+    - Scenarios/Use Cases
  
 # Verify architecture
 
