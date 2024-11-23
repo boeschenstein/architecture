@@ -62,17 +62,18 @@ CQRS Levels: <https://enterprisecraftsmanship.com/posts/types-of-cqrs/>
   - <https://en.wikipedia.org/wiki/All_models_are_wrong>
 - Editor <https://draw.io/>
 - UML <https://holub.com/uml/>
+- Start with Wardley Mapping <https://learnwardleymapping.com/>
 - 4+1 architectural view model
   - Wiki <https://en.wikipedia.org/wiki/4%2B1_architectural_view_model>
   - Good introduction <https://www.youtube.com/watch?v=S9YbFdLdKxE>
   - Paper <https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf>
-  - Views:
+  - 4+1 Views:
     - Logical view
     - Process view
     - Development view
     - Physical view
     - Scenarios/Use Cases
- 
+
 # Verify architecture
 
 - <https://www.plainionist.net/Dependency-Governance-DotNet/>
