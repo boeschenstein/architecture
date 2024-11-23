@@ -12,7 +12,7 @@ Training from ardalis: "Getting Started: Modular Monoliths in .NET"
 ### Monolith cons's
 
 - hard to keep the code clean
-- layered archicture helps
+- layered architecture helps
 
 ## Micro service
 
@@ -58,6 +58,8 @@ CQRS Levels: <https://enterprisecraftsmanship.com/posts/types-of-cqrs/>
 
 # Draw, Charts
 
+- "all models war wrong, but some are useful"
+  - <https://en.wikipedia.org/wiki/All_models_are_wrong>
 - Editor <https://draw.io/>
 - UML <https://holub.com/uml/>
 - 4+1 architectural view model
