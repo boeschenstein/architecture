@@ -1,4 +1,4 @@
-# Architecture
+![image](https://github.com/user-attachments/assets/6842865a-f15a-4308-8f65-c6ff8e451b88)# Architecture
 
 Training from ardalis: "Getting Started: Modular Monoliths in .NET"
 
@@ -73,6 +73,13 @@ CQRS Levels: <https://enterprisecraftsmanship.com/posts/types-of-cqrs/>
     - Development view
     - Physical view
     - Scenarios/Use Cases
+
+# Naming examples
+
+Software Naming: The Ultimate Cheat Sheet: <https://medium.com/@santy/software-naming-the-ultimate-cheat-sheet-b6bccc1d5373>
+
+Some Service Suffixes:
+Manager, Handler, Provider, Builder, Factory, Cache, Adapter, Wrapper, Monitor, Controller, Dispatcher, Utility, Resolver, Facade, Proxy, Strategy, Validator, Processor, Listener, Observer, Decorator, Service, Formatter, Comparator, Reader, Writer, Scanner, Generator, Parser, Interpreter, Visitor, Calculator, Connection, Session, Transaction, Resource, Template, Context, Emitter, Collector, Renderer, Transformer, Encoder, Decoder, Subscriber, Publisher, Engine, Loader, Executor, Verifier, Compiler, Serializer, Deserializer, Connector, Mediator, Filter, Command, Query
 
 # Verify architecture
 
